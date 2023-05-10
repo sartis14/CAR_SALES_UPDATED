@@ -1,4 +1,4 @@
-manufacter,model,sales_in_thousands,year_resale_value,veh_type,price_in_thousands,eng_size,hpower,wbase,width,length,curb_weight,fuel_cap,fuel_effic,launch,power_perf_factor
+manufacturer,model,sales_in_thousands,year_resale_value,veh_type,price_in_thousands,eng_size,hpower,wbase,width,length,curb_weight,fuel_cap,fuel_effic,launch,power_perf_factor
 acura,integra,16.919,16.36,Passenger,21.5,1.8,140,101.2,67.3,172.4,2.639,13.2,28,2/2/2012,58.28014952
 acura,tl,39.384,19.875,Passenger,28.4,3.2,225,108.1,70.3,192.9,3.517,17.2,25,6/3/2011,91.37077766
 acura,cl,14.114,18.225,Passenger,,3.2,225,106.9,70.6,192,3.47,17.2,26,1/4/2012,
